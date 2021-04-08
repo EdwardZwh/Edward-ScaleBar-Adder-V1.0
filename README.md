@@ -1,8 +1,8 @@
-Edward's ScaleBar Adder V1.0
+Edward-ScaleBar-Adder-V1.0
 
-Author: Weiheng(Edward) Zhang. 2021/4/7
+Author: Weiheng(Edward) Zhang
 
-Add 600 nm and 1000 nm scale bars to selected spine for classification.
+Add 600 nm and 1000 nm scale bars to the selected spine for classification.
 
 Usage: (There is also a demo video in this repository)
 1. Import the dendrite models into blender. 

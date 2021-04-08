@@ -1,4 +1,5 @@
 Edward's ScaleBar Adder V1.0
+
 Author: Weiheng(Edward) Zhang. 2021/4/7
 
 Add 600 nm and 1000 nm scale bars to selected spine for classification.

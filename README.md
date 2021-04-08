@@ -1,4 +1,4 @@
-Edward-ScaleBar-Adder-V1.0
+#Edward-ScaleBar-Adder-V1.0
 
 Author: Weiheng(Edward) Zhang
 
